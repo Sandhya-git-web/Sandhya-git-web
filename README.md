@@ -1,4 +1,4 @@
-# Hey Everyone I'm sandhyarani kanaparthi
+# Hey Everyone I'm sandhya 👋
 
 I'm a passionate Power BI Developer / Data Analyst with over 3 years of experience, previously at Tata Consultancy Services (TCS). I specialize in transforming raw data into actionable insights using modern BI tools and scripting languages.
 
