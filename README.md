@@ -1,8 +1,9 @@
-# Hey Everyone I'm Sandhya  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  
+# Hey, I'm Sandhya  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  
   
 
 
-I'm a passionate Power BI Developer / Data Analyst with over 3 years of experience, previously at Tata Consultancy Services (TCS). I specialize in transforming raw data into actionable insights using modern BI tools and scripting languages.
+I'm a passionate Power BI Developer / Data Analyst with  3.3 years of experience, previously at Tata Consultancy Services (TCS).
+I specialize in transforming raw data into actionable insights using modern BI tools and scripting languages.
 
 ## 💼 Professional Summary
 
