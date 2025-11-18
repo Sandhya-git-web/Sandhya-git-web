@@ -30,6 +30,6 @@ Explore my repositories to see:
 ## 📫 Let's Connect
 
 - 📧 Email: sandhyakaparthi104@gmail.com
-- 💼 LinkedIn:https://www.linkedin.com/in/sandhya-kanaparthi-2b1381217/
+- 💼 LinkedIn:www.linkedin.com/in/sandhyarani-kanaparthi-2b1381217
 
 -->
