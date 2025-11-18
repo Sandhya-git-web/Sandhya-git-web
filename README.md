@@ -2,7 +2,7 @@
   
 
 
-I'm a passionate Power BI Developer / Data Analyst with  3.3 years of experience, previously at Tata Consultancy Services (TCS).
+I'm a passionate Power BI Developer / Data Analyst with  3.3 years of experience, previously Employed at Tata Consultancy Services (TCS).
 I specialize in transforming raw data into actionable insights using modern BI tools and scripting languages.
 
 ## 💼 Professional Summary
