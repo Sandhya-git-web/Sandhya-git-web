@@ -13,11 +13,14 @@ I specialize in transforming raw data into actionable insights using modern BI t
 
 ## 🛠️ Skills & Tools
 
-- **Business Intelligence**: Microsoft Power BI (DAX, M Query, advanced modeling)
-- **Data & Backend**: SQL, Python
-- **Web Technologies**: HTML, CSS
-- **Reporting & Visualization**: Power BI dashboards, Excel analytics
-- **Version Control**: Git & GitHub
+| Category               | Tools & Technologies                                                                 |
+|------------------------|--------------------------------------------------------------------------------------|
+| **Business Intelligence** | Power BI (DAX, M Query, advanced modeling), KPI dashboards, drill-through reports     |
+| **Excel Analytics**       | Advanced Excel (INDEX-MATCH, VLOOKUP, Pivot Tables, Conditional Formatting, Data Validation) |
+| **Data & Backend**        | SQL (joins, subqueries, optimization)                 |
+| **Web Technologies**      | HTML, CSS (for web-based data presentation)                                        |
+| **Version Control**       | Git & GitHub (project documentation, commit tracking)                              |
+
 
 ## 📂 Featured Projects
 
@@ -25,7 +28,6 @@ Explore my repositories to see:
 
 - End-to-end Power BI dashboards
 - SQL query optimization and reporting scripts
-- Python-based data analysis workflows
 - Web-based data presentation using HTML/CSS
 
 ## 📫 Let's Connect
